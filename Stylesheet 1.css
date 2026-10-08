@@ -65,3 +65,7 @@ footer{
     text-align: center;
     border-style: double;
 }
+
+@media(max-width: 768px) {
+    
+}
