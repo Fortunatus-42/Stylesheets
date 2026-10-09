@@ -87,6 +87,9 @@ footer{
         font-size: small;
         height: 20px;
         width: 40%;
+    }
+
+    ul li {
         text-align: center;
     }
 
