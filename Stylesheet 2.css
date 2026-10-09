@@ -86,10 +86,7 @@ footer{
     .toon{
         font-size: small;
         height: 20px;
-        width: 40%;
-    }
-
-    ul li {
+        width: 150px;
         text-align: center;
     }
 
