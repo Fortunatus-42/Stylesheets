@@ -73,4 +73,20 @@ footer{
     text-align: center;
 }
 
-@media(max-width: 768px)
+@media(max-width: 768px){
+
+    body{
+        height: auto;
+    }
+
+    header{
+        font-size: larger;
+    }
+    
+    .toon{
+        font-size: small;
+        height: 20px;
+        width: 80px;
+    }
+
+}
