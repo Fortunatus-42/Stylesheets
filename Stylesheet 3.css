@@ -74,9 +74,19 @@ footer{
         box-sizing: border-box;
     }
 
-    body{
+    html, body{
         width: 100%;
         max-width: 100%;
         overflow-x: hidden;
+    }
+
+    ul{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .toon{
+        width: 40%;
     }
 }
