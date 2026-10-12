@@ -81,14 +81,15 @@ footer{
     }
 
     ul{
+        margin: 3px;
         gap: 2px;
         display: flex;
         flex-wrap: wrap;
-        /* justify-content: space-between; */
+        justify-content: center;
     }
 
     .toon{
         margin: 5px;
-
     }
+
 }
