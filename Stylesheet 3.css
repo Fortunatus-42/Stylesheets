@@ -28,6 +28,7 @@ ul{
     margin: 15px;
     width: 150px;
     height: 30px;
+    line-height: 30px;
     text-decoration: none;
 }
 
@@ -77,13 +78,5 @@ footer{
         width: 100%;
         max-width: 100%;
         overflow-x: hidden;
-    }
-
-    ul{
-        gap: 5px;
-    }
-
-    .toon {
-        width: 40%;
     }
 }
