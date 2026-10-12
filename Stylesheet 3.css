@@ -88,6 +88,10 @@ footer{
         justify-content: center;
     }
 
+    .part1{
+        margin: 3px;
+    }
+
     .toon{
         margin: 5px;
     }
