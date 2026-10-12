@@ -84,6 +84,7 @@ footer{
     }
     
     .toon{
+        text-align: center;
         font-size: small;
         height: 20px;
         /* width: 40%; */
