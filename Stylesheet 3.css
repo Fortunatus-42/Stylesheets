@@ -87,12 +87,13 @@ footer{
         justify-content: center;
     }
 
-    /* .part1{
+    .part1{
         margin: 3px;
-    } */
+        padding: 3px;
+    }
 
-    /* .toon{
+    .toon{
         margin: 5px;
-    } */
+    }
 
 }
