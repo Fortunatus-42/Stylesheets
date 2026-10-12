@@ -80,13 +80,13 @@ footer{
     }
 
     header{
-        font-size: xx-large;
+        font-size: larger;
     }
     
     .toon{
         font-size: small;
         height: 20px;
-        width: 40%;
+        /* width: 40%; */
     }
 
 }
