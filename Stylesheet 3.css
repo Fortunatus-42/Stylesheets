@@ -81,19 +81,18 @@ footer{
     }
 
     ul{
-        margin: 3px;
         gap: 2px;
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
     }
 
-    .part1{
+    /* .part1{
         margin: 3px;
-    }
+    } */
 
-    .toon{
+    /* .toon{
         margin: 5px;
-    }
+    } */
 
 }
