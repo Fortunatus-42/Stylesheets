@@ -68,4 +68,17 @@ footer{
 }
 
 @media(max-width: 768px) {
+
+    .toon{
+        padding: 3px 3px;
+    }
+
+    ul li a{
+        margin: 0;
+    }
+
+    .part0{
+        gap: 2px;
+    }
+
 }
