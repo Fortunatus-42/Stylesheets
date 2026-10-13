@@ -70,15 +70,28 @@ footer{
 @media(max-width: 768px) {
 
     .toon{
+        margin-left: 0;
         padding: 3px 3px;
     }
 
+    ul{
+        margin-left: 0;
+    }
+
     ul li a{
-        margin: 0;
+        margin: 3px 0;
     }
 
     .part0{
+        margin-left: 0;
         gap: 2px;
     }
 
+    .part1{
+        margin-left: 0;
+    }
+
+    .part3{
+        text-align: center;
+    }
 }
