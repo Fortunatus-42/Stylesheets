@@ -69,6 +69,11 @@ footer{
 
 @media(max-width: 768px) {
 
+    body{
+        margin-left: 0;
+        position: relative;
+    }
+
     .toon{
         margin-left: 0;
         padding: 3px 3px;
@@ -89,6 +94,8 @@ footer{
 
     .part1{
         margin-left: 0;
+        position: absolute;
+        left: 0;
     }
 
     .part3{
