@@ -71,16 +71,16 @@ footer{
 
     body{
         margin-left: 0;
-        position: relative;
     }
 
     .toon{
         margin-left: 0;
-        padding: 3px 3px;
+        padding: 3px 0;
     }
 
     ul{
         margin-left: 0;
+        list-style-position: inside;
     }
 
     ul li a{
@@ -94,8 +94,6 @@ footer{
 
     .part1{
         margin-left: 0;
-        position: absolute;
-        left: 0;
     }
 
     .part3{
