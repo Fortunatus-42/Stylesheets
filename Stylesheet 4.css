@@ -47,5 +47,13 @@ footer{
 }
 
 @media(max-width: 768px) {
-    
+    body{
+        font-size: medium;
+    }
+
+    .part3{
+        font-size: x-small;
+        top: 50px;
+        right: 0;
+    }
 }
